@@ -1,0 +1,5 @@
+in terminal
+dotnet add package Akka.FSharp --version 1.4.25
+dotnet add package Akka.Remote --version 1.4.25
+dotnet add package Akka.Routing --version 1.4.25
+dotnet run numberOfZeroes
